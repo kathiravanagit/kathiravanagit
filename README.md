@@ -21,7 +21,7 @@ Aspiring Software Developer
 ### 💻 Workspace Spec
  <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_5_5500u-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> 
 
-![kathiravanagit's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=kathiravanagit&type=contributions&theme=tokyonight)
+![kathiravanagit's Contribution stats](https://git-hub-stats-card-generator.vercel.app/api/svg?username=kathiravanagit&type=contributions&theme=github)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kathiravana?theme=dark&font=DM%20Mono&ext=heatmap)
 
