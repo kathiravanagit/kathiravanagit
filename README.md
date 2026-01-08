@@ -33,7 +33,3 @@ Database:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/kathiravana?theme=dark&font=DM%20Mono&ext=heatmap)
 
 ![Kathiravan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kathiravanagit&bg_color=000000&color=ffffff&line=0663f9&point=ffffff&area=true&hide_border=true)
-
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=antonkomarev&style=for-the-badge">
-</a>
