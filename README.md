@@ -17,9 +17,9 @@ I’m a **Full Stack Developer + AI enthusiast** focused on turning ideas into *
 I love wiring **React → Backend → AI → Cloud** and making it smooth, fast, and usable.
 
 - 🌐 **[Portfolio](https://kathirpage.vercel.app)**  
-- 📄 **[Resume](https://shorturl.at/sfCGY)**  
+- 📄 **[Resume](https://drive.google.com/file/d/1obSUCEGGD9fEZece-a31HsJtVMCPZTqN/view?usp=sharing)**  
   <br>
-  <a href="https://shorturl.at/sfCGY" target="_blank">
+  <a href="https://drive.google.com/file/d/1obSUCEGGD9fEZece-a31HsJtVMCPZTqN/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Download%20Resume-00F7FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black"/>
   </a>
 - 🌱 Learning → **DSA, AI workflows & system design**  
