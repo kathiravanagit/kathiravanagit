@@ -24,10 +24,11 @@
 
 ![LeetCode](https://leetcard.jacoblin.cool/kathiravana?theme=dark&font=DM%20Mono&ext=heatmap)
 
+
 ## 📊 GitHub Stats:
-![](https://github-readme-stats-one-bice.vercel.app/api?username=kathiravanagit&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=kathiravanagit&theme=discord_old_blurple&hide_border=false)<br/>
-![](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kathiravanagit&theme=discord_old_blurple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-one-bice.vercel.app/api?username=kathiravanagit&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com?user=kathiravanagit&theme=dark&hide_border=true&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff)<br/>
+![](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=kathiravanagit&layout=compact&theme=dark&hide_border=true&bg_color=000000&title_color=ffffff&text_color=ffffff)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
