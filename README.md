@@ -15,7 +15,7 @@
 
 ## 🌐Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kathiravan-a-033112291) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kathirr_.a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kathiravanawork@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?logo=vercel&logoColor=white)](https://kathirpage.vercel.app)
-[![Resume](https://img.shields.io/badge/Resume-0A66C2?logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1obSUCEGGD9fEZece-a31HsJtVMCPZTqN/view?usp=sharing)
+[![Resume](https://img.shields.io/badge/Resume-0A66C2?logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1xNJgLMmxd1GAtOxX4jwHVigWAIPm4ak1/view?usp=sharing)
 
 
 ## 💻 Tech Stack:
